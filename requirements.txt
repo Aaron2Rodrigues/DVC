@@ -1,0 +1,13 @@
+pandas
+numpy 
+scikit-learn
+joblib
+dvc 
+mlflow==2.10.0
+apache-airflow
+
+
+
+
+
+
